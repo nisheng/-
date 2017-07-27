@@ -1,0 +1,886 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  letter-spacing: .5px;
+  font-size: 12px;
+  background: transparent;
+}
+
+ul, ol, li {
+  list-style: none;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover {
+  color: red;
+}
+
+.bgnone {
+  background: black;
+}
+
+/**********************************************footer************************************************************/
+footer {
+  width: 100%;
+  height: 235px;
+  margin: auto;
+  padding-top: 30px;
+  background: #f2f2f2;
+  text-align: center;
+}
+
+footer .footer {
+  width: 1000px;
+  height: 205px;
+  margin: auto;
+  text-align: center;
+  padding-top: 30px;
+  background: #f2f2f2;
+}
+
+footer .footer .footul {
+  width: 1000px;
+  height: 60px;
+  margin: auto;
+  margin-bottom: 20px;
+  text-align: center;
+  overflow: hidden;
+}
+
+footer .footer .footul li {
+  display: block;
+  width: 165px;
+  height: 60px;
+  float: left;
+  overflow: hidden;
+  border-right: 1px solid #777;
+  background: url(../img/base_z.png) no-repeat;
+}
+
+footer .footer .footul li a {
+  cursor: pointer;
+  color: #000;
+  line-height: 95px;
+  display: block;
+  width: 165px;
+  height: 60px;
+  overflow: hidden;
+  line-height: 95px;
+  text-align: center;
+  color: #000;
+}
+
+footer .footer .footul li:nth-child(1) {
+  background-position: -153px -146px;
+}
+
+footer .footer .footul li:nth-child(1):hover {
+  background-position: -153px -264px;
+}
+
+footer .footer .footul li:nth-child(2) {
+  background-position: -543px -104px;
+}
+
+footer .footer .footul li:nth-child(2):hover {
+  background-position: -543px 8px;
+}
+
+footer .footer .footul li:nth-child(3) {
+  background-position: -150px -382px;
+}
+
+footer .footer .footul li:nth-child(3):hover {
+  background-position: -262px 494px;
+}
+
+footer .footer .footul li:nth-child(4) {
+  background-position: -419px 5px;
+}
+
+footer .footer .footul li:nth-child(4):hover {
+  background-position: -419px -107px;
+}
+
+footer .footer .footul li:nth-child(5) {
+  background-position: -301px -346px;
+}
+
+footer .footer .footul li:nth-child(5):hover {
+  background-position: -301px -458px;
+}
+
+footer .footer .footul li:nth-child(6) {
+  background-position: -301px -112px;
+}
+
+footer .footer .footul li:nth-child(6):hover {
+  background-position: -301px 0px;
+}
+
+footer .foot_link {
+  margin-bottom: 20px;
+}
+
+footer .foot_link a {
+  margin: 0 12px;
+}
+
+footer .footer_copyright {
+  margin-bottom: 20px;
+}
+
+footer .footer_copyright span {
+  margin-right: 30px;
+}
+
+footer .footer_license a {
+  margin-right: 30px;
+}
+
+/**********************************************footer************************************************************/
+/**********************************************header************************************************************/
+header {
+  width: 100%;
+  background: #f2f2f2;
+  overflow: hidden;
+}
+
+.header1 {
+  width: 1000px;
+  height: 30px;
+  margin: auto;
+  background: #f2f2f2;
+}
+
+header img {
+  width: 20px;
+  height: 20px;
+}
+
+header li {
+  height: 30px;
+  line-height: 30px;
+  float: left;
+  padding: 0 10px 0 0;
+}
+
+.header_right ul li {
+  height: 30px;
+  line-height: 30px;
+  padding: 0 0 0 20px;
+  float: right;
+}
+
+.header_right .sina {
+  display: block;
+  width: 20px;
+  height: 17px;
+  background: url(../img/base_z.png) no-repeat -604px -329px;
+  position: relative;
+  top: 6px;
+  margin-left: 10px;
+}
+
+.header2all {
+  width: 100%;
+  background: #fff;
+}
+
+.header2 {
+  width: 1000px;
+  height: 90px;
+  margin: auto;
+  background: #FFFFFF;
+}
+
+.header2 a {
+  float: left;
+}
+
+.header2_bg {
+  display: block;
+  width: 205px;
+  height: 90px;
+  background: url(../img/base_z.png) no-repeat -853px -295px;
+}
+
+.header2_bg1 {
+  display: block;
+  cursor: default;
+  width: 135px;
+  height: 90px;
+  background: url(../img/base_z.png) no-repeat -905px -72px;
+}
+
+/*-------------------------------header--------------------------*/
+nav {
+  width: 100%;
+  height: 42px;
+}
+
+nav .nav {
+  width: 1000px;
+  height: 42px;
+  background: black;
+  margin: auto;
+}
+
+.nav_left li {
+  width: auto;
+  height: 42px;
+  line-height: 42px;
+  margin-right: 39px;
+  float: left;
+}
+
+.nav_left a {
+  color: #fff;
+}
+
+#haiwaibg {
+  display: inline-block;
+  width: 32px;
+  height: 18px;
+  background: url(../img/new.png) no-repeat;
+}
+
+/*----------------------二级菜单---------------------------*/
+.navall {
+  width: 100%;
+  height: 42px;
+  background: #000000;
+}
+
+.navall a {
+  font-size: 14px;
+}
+
+.navall a:hover {
+  color: red;
+}
+
+.nav_left {
+  float: left;
+}
+
+/*一级菜单相对定位*/
+.nav_left ul li {
+  position: relative;
+}
+
+.nav_left .nav2all {
+  width: 630px;
+  height: 400px;
+  position: absolute;
+  top: 42px;
+  left: 0px;
+  background: #fff;
+  display: none;
+}
+
+.nav2leftul {
+  width: 274px;
+  padding: 0 20px 0 20px;
+  height: 400px;
+  border-right: 1px #e7e7e7 solid;
+  float: left;
+  padding-bottom: 34px;
+}
+
+.nav2leftul h4, .nav2rightul h4 {
+  width: 282px;
+  height: 44px;
+  line-height: 44px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.nav2leftul li h5 {
+  width: 50%;
+  height: 44px;
+  text-align: right;
+  line-height: 44px;
+  font-size: 14px;
+  position: absolute;
+  left: -20px;
+  bottom: 0;
+  color: #000;
+}
+
+.nav2leftul li {
+  width: 93%;
+  line-height: 15px;
+  text-align: left;
+}
+
+.nav2leftul li a {
+  font-size: 12px;
+  color: #666666;
+}
+
+.nav2all .nav2rightul {
+  width: 274px;
+  padding-right: 20px;
+  height: auto;
+  float: right;
+}
+
+.nav2rightul li {
+  line-height: 15px;
+  text-align: left;
+  clear: both;
+}
+
+.nav2rightul li a {
+  font-size: 12px;
+  color: #000;
+}
+
+.nav_right {
+  float: right;
+}
+
+.nav_right ul > li {
+  color: #fff;
+  font-size: 16px;
+  height: 42px;
+  line-height: 42px;
+  float: left;
+  margin-left: 15px;
+  text-align: center;
+}
+
+.nav_right .shoppingCar {
+  width: 23px;
+  height: 42px;
+  background: url(../img/base_z.png) no-repeat -1017px -219px;
+  position: relative;
+}
+
+.nav_right .shoppingCar .car {
+  height: 0;
+  width: 285px;
+  overflow: hidden;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  position: absolute;
+  top: 42px;
+  right: -179px;
+  background: skyblue;
+}
+
+.nav_right .shoppingCar .car .car_top {
+  padding: 4px;
+  margin-top: 20px;
+  overflow: hidden;
+  border-bottom: 1px solid #E7E7E7;
+}
+
+.nav_right .shoppingCar .car .car_top .top_left {
+  margin-bottom: 10px;
+  overflow: hidden;
+  float: left;
+}
+
+.nav_right .shoppingCar .car .car_top .top_left img {
+  width: 48px;
+  height: 64px;
+  border: 1px solid #E7E7E7;
+}
+
+.nav_right .shoppingCar .car .car_top .top_center {
+  float: left;
+  margin-left: 8px;
+}
+
+.nav_right .shoppingCar .car .car_top .top_center h3, .nav_right .shoppingCar .car .car_top .top_center p {
+  height: 20px;
+  line-height: 20px;
+}
+
+.nav_right .shoppingCar .car .car_top .top_right {
+  float: right;
+}
+
+.nav_right .shoppingCar .car .car_top .top_right a {
+  right: 0;
+  bottom: 0;
+}
+
+.nav_right .shoppingCar .car .car_bottom {
+  width: 285px;
+  overflow: hidden;
+  text-align: right;
+}
+
+.nav_right .shoppingCar .car .car_bottom #pay {
+  margin-left: 92px;
+  margin-bottom: 10px;
+  display: block;
+  width: 100px;
+  height: 27px;
+  line-height: 27px;
+  background: red;
+  text-align: center;
+  border: none;
+}
+
+/**********************************************header************************************************************/
+.content {
+  width: 1000px;
+  overflow: hidden;
+  margin: auto;
+}
+
+.content .headbread {
+  width: 1000px;
+  height: 57px;
+  line-height: 57px;
+  border-bottom: 1px solid #E7E7E7;
+  position: relative;
+}
+
+.content .headbread .breadcrumbs {
+  position: relative;
+  width: 1000px;
+  padding: 20px 0 0px 20px;
+  height: 16px;
+  line-height: 16px;
+  font-size: 14px;
+}
+
+.content .headbread .breadcrumbs ul {
+  float: left;
+}
+
+.content .headbread .breadcrumbs ul li, .content .headbread .breadcrumbs ul li > a {
+  margin-right: 8px;
+  color: #929292;
+  float: left;
+  font-size: 14px;
+}
+
+.content .headbread .breadcrumbs ul .redNum {
+  color: #000000;
+}
+
+.content .glass {
+  width: 1000px;
+  margin: 0 0 52px;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+  text-align: left;
+  z-index: 8;
+  /*左边盒子*/
+}
+
+.content .glass .glass_view {
+  width: 480px;
+  float: left;
+  margin: 0 0 0 5px;
+  height: auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.content .glass .glass_view .glass_bBox {
+  width: 480px;
+  height: 640px;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.content .glass .glass_view .glass_sBox {
+  width: 425px;
+  height: 107px;
+  overflow: hidden;
+  margin: 0 auto;
+  position: relative;
+  padding-bottom: 2px;
+  position: absolute;
+  bottom: 20px;
+}
+
+.content .glass .glass_view .glass_sBox img {
+  display: inline-block;
+  width: 80px;
+  height: 107px;
+  border: 1px solid #E7E7E7;
+}
+
+.content .glass .glass_view .lBtn, .content .glass .glass_view .rBtn {
+  display: block;
+  z-index: 999;
+  width: 23px;
+  height: 42px;
+  text-indent: -1000em;
+  position: absolute;
+  top: 300px;
+}
+
+.content .glass .glass_view .lBtn {
+  float: left;
+  left: 0;
+  background: url(../img/lbtn.png) no-repeat 0 0;
+}
+
+.content .glass .glass_view .rBtn {
+  float: right;
+  right: 0;
+  background: url(../img/rbtn.png) no-repeat 0 0;
+}
+
+.content .glass .glass_info {
+  width: 480px;
+  height: auto;
+  overflow: hidden;
+  margin-right: 5px;
+  float: right;
+  position: relative;
+  overflow: visible;
+  background: url(../img/weibo_base.png) no-repeat 98% 0;
+}
+
+.content .glass .glass_info .product_title {
+  width: auto;
+  height: auto;
+  overflow: hidden;
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 32px;
+  padding: 4px 40px 0 0;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.content .glass .glass_info .product_name {
+  width: auto;
+  padding-left: 2px;
+  padding-right: 30px;
+  height: auto;
+  overflow: hidden;
+  font-size: 16px;
+  color: #929292;
+}
+
+.content .glass .glass_info .product_price_box {
+  position: relative;
+  padding: 22px 0 0;
+  line-height: 32px;
+  overflow: hidden;
+}
+
+.content .glass .glass_info .product_price_box .product_price {
+  width: auto;
+  float: left;
+  margin: 0 10px 0 0;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.content .glass .glass_info .product_price_box .product_price span {
+  font-size: 28px;
+  font-weight: bold;
+  color: #dd2828;
+}
+
+.content .glass .glass_info .product_price_box .prdoduct_discount {
+  overflow: hidden;
+  float: right;
+  color: #000;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: arial;
+}
+
+.content .glass .glass_info .product_tax {
+  overflow: hidden;
+  padding: 25px 0 0;
+  line-height: 20px;
+  font-size: 14px;
+  position: relative;
+}
+
+.content .glass .glass_info .product_tax .tax_detail {
+  float: left;
+  min-width: 170px;
+}
+
+.content .glass .glass_info .product_tax .tax_explain {
+  color: #929292;
+  text-decoration: underline;
+  margin: 0 0 0 10px;
+  float: left;
+  cursor: pointer;
+}
+
+.content .glass .glass_info .product_tax .tax_free {
+  float: right;
+}
+
+.content .glass .glass_info .box_effect {
+  width: auto;
+  padding: 10px;
+  margin: 21px 0 30px;
+  background: #eee;
+}
+
+.content .glass .glass_info .box_effect .box_effect_content {
+  width: auto;
+  padding: 0;
+  background: #eee;
+  border: 0;
+  left: 0;
+  bottom: 0;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.content .glass .glass_info .box_effect .box_effect_content .box_effect_content_first {
+  width: 310px;
+  height: auto;
+  padding-left: 48px;
+  overflow: hidden;
+  line-height: 20px;
+  white-space: normal;
+  background: url(../img/sales_base.png) no-repeat 0 0;
+}
+
+.content .glass .glass_info .box_effect .box_effect_content .box_effect_content_first span {
+  margin-right: 5px;
+}
+
+.content .glass .glass_info .product_choose {
+  width: 360px;
+  height: auto;
+  position: relative;
+  margin: 0 0 8px;
+}
+
+.content .glass .glass_info .product_choose .product_choose_title {
+  width: 360px;
+  height: 31px;
+  overflow: hidden;
+  font-size: 14px;
+  font-weight: 500;
+  color: #929292;
+}
+
+.content .glass .glass_info .product_choose .product_choose_title strong {
+  margin: 0 0 0 10px;
+  color: #000;
+}
+
+.content .glass .glass_info .product_choose .product_choose_title #chosColor {
+  display: block;
+  line-height: 17px;
+  text-align: center;
+  color: #1e1e1e;
+  background: #eee;
+}
+
+.content .glass .glass_info .product_choose .number_choose {
+  width: 118px;
+  height: 34px;
+  border: 0;
+  overflow: hidden;
+}
+
+.content .glass .glass_info .product_choose .number_choose span {
+  display: block;
+  width: 34px;
+  height: 34px;
+  line-height: 34px;
+  text-align: center;
+  font-size: 24px;
+  border-right: 0;
+  background: #eee;
+  text-indent: 0;
+  float: left;
+}
+
+.content .glass .glass_info .product_choose .number_choose .quantity_number {
+  width: 40px;
+  height: 34px;
+  padding: 0;
+}
+
+.content .glass .glass_info .product_choose .number_choose .quantity_number input {
+  border: none;
+  background: #fff;
+  display: block;
+  width: 40px;
+  height: 34px;
+  text-align: center;
+  line-height: 34px;
+  font-size: 14px;
+  font-weight: 700;
+  float: left;
+}
+
+.content .glass .glass_info .product_choose .number_choose .quantity_number .number_increase {
+  width: 40px;
+  height: 34px;
+  text-align: center;
+  line-height: 34px;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.content .glass .glass_info .product_choose .number_choose .number_increase {
+  width: 40px;
+  height: 34px;
+  text-align: center;
+  line-height: 34px;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.content .glass .glass_info .trace_overseas {
+  background: url(../img/plane_base.gif) no-repeat left 0;
+  width: auto;
+  padding-left: 23px;
+  font-weight: bold;
+  line-height: 20px;
+  padding-left: 30px;
+}
+
+.content .glass .glass_info .product_trace {
+  padding-left: 30px;
+  width: 100%;
+  height: 30px;
+  padding: 3px 0 0;
+  overflow: hidden;
+  color: #929292;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.content .glass .glass_info .numBtn {
+  width: 100%;
+  min-height: 42px;
+  overflow: hidden;
+  padding: 20px 0;
+}
+
+.content .glass .glass_info .numBtn span {
+  display: block;
+  width: 230px;
+  height: 42px;
+  text-align: center;
+  line-height: 42px;
+  font-size: 14px;
+  background-color: #de2827;
+  color: #fff;
+  float: left;
+}
+
+.content .glass .glass_info .numBtn span #btn {
+  width: 230px;
+  border: none;
+  display: inline-block;
+  padding: 0 0 0 33px;
+  line-height: 42px;
+  font-size: 16px;
+  font-weight: bold;
+  background: url(../img/buy_base.png) no-repeat 59px 9px;
+}
+
+.content .glass .glass_info .timeOut {
+  padding: 20px 0 14px;
+  overflow: hidden;
+}
+
+.content .glass .glass_info .timeOut .timeLeft {
+  width: 60px;
+  height: 51px;
+  padding: 8px 0;
+  font-weight: bold;
+  float: left;
+  margin-right: 3px;
+  color: #929292;
+}
+
+.content .glass .glass_info .timeOut .timeLeft strong {
+  display: block;
+  font-size: 14px;
+  color: #000;
+}
+
+.content .glass .glass_info .timeOut .timeLeft em {
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 3px;
+}
+
+.content .glass .glass_info .timeOut .time {
+  color: #999;
+  float: left;
+  padding: 3px 0 0;
+  text-align: center;
+  line-height: 47px;
+}
+
+.content .glass .glass_info .timeOut .time strong {
+  width: 42px;
+  height: 45px;
+  line-height: 47px;
+  margin: 0 5px;
+  padding: 4px 2px;
+  display: inline-block;
+  vertical-align: top;
+  border: 1px solid #ccc;
+  position: relative;
+}
+
+.content .glass .glass_info .reveal00 {
+  height: 20px;
+  display: inline-block;
+  padding: 0 13px 0 26px;
+  line-height: 20px;
+  background: url(../img/real100_base.png) no-repeat 0 0;
+  margin-bottom: 20px;
+}
+
+.content .glass .glass_info #product_choose_color_ul {
+  width: 58px;
+  height: 94px;
+  margin: 10px 10px 10px 0;
+}
+
+.content .glass .glass_info #product_choose_color_ul a {
+  display: block;
+  width: 58px;
+  height: 94px;
+  overflow: hidden;
+  position: relative;
+}
+
+.content .glass .glass_info #product_choose_color_ul a img {
+  display: block;
+  width: 56px;
+  height: 75px;
+  border: 1px solid #eee;
+}
+
+.content .glass .glass_info #product_choose_color_ul a span {
+  display: block;
+  line-height: 17px;
+  text-align: center;
+  color: #FFFFFF;
+  background: #000;
+}

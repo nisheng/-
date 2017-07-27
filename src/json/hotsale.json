@@ -1,0 +1,752 @@
+{
+	"hotsale":[
+				{
+					"img" : "img/hotsale1.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.1",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale2.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.2",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale3.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.3",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale4.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.4",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale5.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.5",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale6.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.6",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale7.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale8.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.1",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale9.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.2",
+					"time" : "满两件享7折,3天后结束"
+				}
+	],
+	"woman":[
+				{
+					"img" : "img/hotsale10.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.3",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale11.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.4",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale12.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.5",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale13.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.6",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale14.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale15.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale16.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				}
+	],
+	"man":[
+				{
+					"img" : "img/hotsale17.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.3",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale18.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.4",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale19.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.5",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale20.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.6",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale21.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale22.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale23.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale24.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale25.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale26.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale27.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale63.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				}
+	],
+	"beauty":[
+				{
+					"img" : "img/hotsale42.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.1",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale43.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.2",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale44.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.3",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale45.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.4",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale46.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.5",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale47.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.6",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale48.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale49.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.1",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale50.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.2",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale51.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.3",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale52.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.4",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale53.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.5",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale54.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.6",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale55.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale56.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.6",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale57.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale58.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.6",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale59.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale60.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.6",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale61.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale62.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale63.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				}
+
+	],
+	"garden":[
+				{
+					"img" : "img/hotsale30.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.6",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale31.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale32.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale33.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				}
+
+	],
+	"child" : [
+				{
+					"img" : "img/hotsale34.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.6",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale35.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale36.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale37.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				}
+
+	],
+	"overseas":[
+				{
+					"img" : "img/hotsale38.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.6",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale39.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale40.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				},
+				{
+					"img" : "img/hotsale41.jpg",
+					"span" : "JILL STUART 纽约设计师女装",
+					"agio" : "3.7",
+					"time" : "满两件享7折,3天后结束"
+				}
+	],
+	"week1":[
+				{
+					"img" : "img/week01.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week02.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week03.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week04.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week05.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week06.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week07.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week08.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week09.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week10.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week11.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week12.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				}
+	],
+	"week2":[
+				{
+					"img" : "img/week13.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week14.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week15.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week16.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week17.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week18.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week19.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week20.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week21.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week22.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week23.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week24.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week25.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week26.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week27.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week28.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week29.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week30.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week31.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week32.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week33.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week34.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week35.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week36.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week37.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week38.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week39.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week40.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week41.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				}
+	],
+	"week3":[
+				{
+					"img" : "img/week42.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week43.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week44.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week45.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week46.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week47.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week48.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week49.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week50.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week51.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week52.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				}
+
+	],
+	"week4":[
+				{
+					"img" : "img/week53.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week54.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week55.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week56.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week57.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week58.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week59.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week60.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week61.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				}
+	],
+	"week5":[
+				{
+					"img" : "img/week62.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week63.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week64.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week65.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week66.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week67.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week68.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week69.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				},
+				{
+					"img" : "img/week50.jpg",
+					"span" : "米兰达可儿 婚礼妆容",
+					"agio" : "6.3"
+				}
+	]
+}

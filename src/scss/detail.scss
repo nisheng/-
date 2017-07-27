@@ -1,0 +1,409 @@
+@import "base";
+.content{
+    width: 1000px;
+    overflow: hidden;
+    margin: auto;
+    .headbread{
+        width: 1000px;
+        height: 57px;
+        line-height: 57px;
+        border-bottom: 1px solid #E7E7E7;
+        position: relative;
+        .breadcrumbs{
+                position: relative;
+                width: 1000px;
+                padding: 20px 0 0px 20px;
+                height: 16px;
+                line-height: 16px;
+                font-size: 14px;
+            ul{
+                float: left;
+                li,li>a{
+                    margin-right: 8px;
+                    color: #929292;
+                    float: left;
+                    font-size: 14px;
+                }
+                .redNum{
+                    color: #000000;
+                    
+                }
+            }
+        }
+    }
+    .glass{
+        width: 1000px;
+        margin: 0 0 52px;
+        position: relative;
+        overflow: hidden;
+        margin: 0 auto;
+        text-align: left;
+        z-index: 8;
+        /*左边盒子*/
+        .glass_view{
+            width: 480px;
+            float: left;
+            margin: 0 0 0 5px;
+            height: auto;
+            overflow: hidden;
+            position: relative;
+            .glass_bBox{
+                width: 480px;
+                height: 640px;
+                overflow: hidden;
+                position: relative;
+                margin-bottom: 10px;
+            }
+            .glass_sBox{
+                width: 425px;
+                height: 107px;
+                overflow: hidden;
+                margin: 0 auto;
+                position: relative;
+                padding-bottom: 2px;
+                position: absolute;
+                bottom: 20px;
+                img{
+                    display: inline-block;
+                    width: 80px;
+                    height: 107px;
+                    border: 1px solid #E7E7E7;
+                }
+            }
+            .lBtn,.rBtn{
+                display: block;
+                z-index: 999;
+                width: 23px;
+                height: 42px;
+                text-indent: -1000em;
+                position: absolute;
+                top: 300px;
+
+            }
+            .lBtn{
+                float: left;
+                left: 0;
+                background: url(../img/lbtn.png) no-repeat 0 0;
+                
+            }
+            .rBtn{
+                float: right;
+                right: 0;
+                background: url(../img/rbtn.png) no-repeat 0 0;
+                
+            }
+        }
+        .glass_info{
+            width: 480px;
+            height: auto;
+            overflow: hidden;
+            margin-right: 5px;
+            float: right;
+            position: relative;
+            overflow: visible;
+            background:url(../img/weibo_base.png) no-repeat 98% 0 ;
+            .product_title{
+                width: auto;
+                height: auto;
+                overflow: hidden;
+                font-size: 28px;
+                font-weight: bold;
+                line-height: 32px;
+                padding: 4px 40px 0 0;
+                letter-spacing: 1px;
+                text-transform: uppercase;
+              
+            }
+            .product_name{
+                width: auto;
+                padding-left: 2px;
+                padding-right: 30px;
+                height: auto;
+                overflow: hidden;
+                font-size: 16px;
+                color: #929292;
+            }
+            .product_price_box{
+                position: relative;
+                padding: 22px 0 0;
+                line-height: 32px;
+                overflow: hidden;
+                .product_price{
+                    width: auto;
+                    float: left;
+                    margin: 0 10px 0 0;
+                    overflow: hidden;
+                    white-space: nowrap;
+                    span{
+                        font-size: 28px;
+                        font-weight: bold;
+                        color: #dd2828;
+                    }
+                }
+                .prdoduct_discount{
+                    overflow: hidden;
+                    float: right;
+                    color: #000;
+                    font-size: 24px;
+                    font-weight: bold;
+                    font-family: arial;
+                    span{
+                        
+                    }
+                }
+            }
+            .product_tax{    
+                overflow: hidden;
+                padding: 25px 0 0;
+                line-height: 20px;
+                font-size: 14px;
+                position: relative;
+                .tax_detail{
+                    float: left;
+                     min-width: 170px;
+                }
+                .tax_explain{
+                    color: #929292;
+                    text-decoration: underline;
+                    margin: 0 0 0 10px;
+                    float: left; 
+                    cursor: pointer;
+                }
+                .tax_free{
+                    float: right;
+                }
+            }
+            .box_effect{
+                width: auto;
+                padding: 10px;
+                margin: 21px 0 30px;
+                background: #eee;
+                .box_effect_content{
+                    width: auto;
+                    padding: 0;
+                    background: #eee;
+                    border: 0;
+                    left: 0;
+                    bottom: 0;
+                    font-size: 14px;
+                    font-weight: 500;
+                    .box_effect_content_first{
+                        width: 310px;
+                        height: auto;
+                        padding-left: 48px;
+                        overflow: hidden;
+                        line-height: 20px;
+                        white-space: normal;
+                        background: url(../img/sales_base.png) no-repeat 0 0;
+                        span{
+                            margin-right: 5px;
+                        }
+                    }
+                }
+                
+            }
+            .product_choose{
+                    width: 360px;
+                    height: auto;
+                    position: relative;
+                    margin: 0 0 8px;
+                    .product_choose_title{
+                        width: 360px;
+                        height: 31px;
+                        overflow: hidden;
+                        font-size: 14px;
+                        font-weight: 500;
+                        color: #929292;
+                        strong{
+                            margin: 0 0 0 10px;
+                            color: #000;
+                        }
+                        #chosColor{
+                            display: block;
+                            line-height: 17px;
+                            text-align: center;
+                            color: #1e1e1e;
+                            background: #eee;
+                        }
+                       
+                    }
+                    .number_choose{
+                        width: 118px;
+                        height: 34px;
+                        border: 0;
+                        overflow: hidden;
+                        span{
+                            display: block;
+                            width: 34px;
+                            height: 34px;
+                            line-height: 34px;
+                            text-align: center;
+                            font-size: 24px;
+                            border-right: 0;
+                            background: #eee;
+                            text-indent: 0;
+                            float: left;
+                        }
+                        .quantity_number{
+                            width: 40px;
+                            height: 34px;
+                            padding: 0;
+                            input{
+                                border: none;
+                                background: #fff;
+                                display: block;
+                                width: 40px;
+                                height: 34px;
+                                text-align: center;
+                                line-height: 34px;
+                                font-size: 14px;
+                                font-weight: 700;
+                                float: left;
+                            }
+                            .number_increase{
+                                width: 40px;
+                                height: 34px;
+                                text-align: center;
+                                line-height: 34px;
+                                font-size: 14px;
+                                font-weight: 700;
+                            }
+                        } 
+                        .number_increase{
+                            width: 40px;
+                            height: 34px;
+                            text-align: center;
+                            line-height: 34px;
+                            font-size: 14px;
+                            font-weight: 700;
+                        }
+                    }
+                    
+                }
+                .trace_overseas{
+                    background: url(../img/plane_base.gif) no-repeat left 0;
+                    width: auto;
+                    padding-left: 23px;
+                    font-weight: bold;
+                    line-height: 20px;
+                        padding-left: 30px;
+                }
+                .product_trace {
+                    padding-left: 30px;
+                    width: 100%;
+                    height: 30px;
+                    padding: 3px 0 0;
+                    overflow: hidden;
+                    color: #929292;
+                    font-size: 14px;
+                    font-weight: 500;
+                }
+                .numBtn{
+                    width: 100%;
+                    min-height: 42px;
+                    overflow: hidden;
+                    padding: 20px 0;
+                    
+                    span{
+                        display: block;
+                        width: 230px;
+                        height: 42px;
+                        text-align: center;
+                        line-height: 42px;
+                        font-size: 14px;
+                        background-color: #de2827;
+                        color: #fff;
+                        float: left;
+                        #btn{
+                            width: 230px;
+                            border: none;
+                            display: inline-block;
+                            padding: 0 0 0 33px;
+                            line-height: 42px;
+                            font-size: 16px;
+                            font-weight: bold;
+                            background: url(../img/buy_base.png) no-repeat 59px 9px;
+                        }
+
+                    }
+                }
+                .timeOut{
+                        padding: 20px 0 14px;
+                        overflow: hidden;
+                        .timeLeft{
+                            width: 60px;
+                            height: 51px;
+                            padding: 8px 0;
+                            font-weight: bold;
+                            float: left;
+                            margin-right: 3px;
+                            color: #929292;
+                            strong{
+                                    display: block;
+                                    font-size: 14px;
+                                    color: #000;
+                            }
+                            em{
+                                font-style: normal;
+                                font-weight: 500;
+                                letter-spacing: 3px;
+                            }
+                        }
+                        .time{
+                                color: #999;
+                                float: left;
+                                padding: 3px 0 0;
+                                text-align: center;
+                                line-height:47px ;
+                                strong{
+                                    width: 42px;
+                                    height: 45px;
+                                    line-height:47px ;
+                                    margin: 0 5px;
+                                    padding: 4px 2px;
+                                    display: inline-block;
+                                    vertical-align: top;
+                                    border: 1px solid #ccc;
+                                    position: relative;
+                                }
+                        }
+                      
+                }
+                .reveal00{
+                    height: 20px;
+                    display: inline-block;
+                    padding: 0 13px 0 26px;
+                    line-height: 20px;
+                    background: url(../img/real100_base.png) no-repeat 0 0;
+                    margin-bottom: 20px;
+                }
+                
+             #product_choose_color_ul{
+//                          float: left;
+                            width: 58px;
+                            height: 94px;
+                            margin: 10px 10px 10px 0;
+                            a{
+                                display: block;
+                                width: 58px;
+                                height: 94px;
+                                overflow: hidden;
+                                position: relative;
+                                img{
+                                    display: block;
+                                    width: 56px;
+                                    height: 75px;
+                                    border: 1px solid #eee;
+                                }
+                                span{
+                                    display: block;
+                                    line-height: 17px;
+                                    text-align: center;
+                                    color: #FFFFFF;
+                                    background: #000;
+                                }
+                            }
+                        }
+        }
+    }
+}

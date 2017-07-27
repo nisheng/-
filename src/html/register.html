@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>用户注册页面</title>
+		<link rel="stylesheet" type="text/css" href="../css/register.css"/>
+		<script type="text/javascript" src="../js/require.js" defer async = "true" data-main = "../js/main"></script>
+		
+	</head>
+	<div class="login_wrapper">
+		<header></header>
+		<div class="login_content">
+			<div class="login_main">
+				<div class="regsiter">
+					<h2>免费注册</h2>
+					<span>
+						已注册？
+						<a href="login.html">登录</a>
+					</span>
+				</div>
+				<div class="newpeople">
+					<p>
+						<span style="clear: both;rgb(255,0,0)">新客专享 820元现金券礼包</span>
+					</p>
+				</div>
+				<div class="loginbar">
+					<form action="">
+						<ul>
+							<li>
+								<span>账户名</span>
+								<input type="text" class="user" value="已验证手机号/邮箱"/>
+								<p>请输入已验证的手机号或邮箱</p>
+							</li>
+							<li>
+								<span>密码</span>
+								<input type="password" class="password"/>
+								<p>密码错误</p>
+							</li>
+							<li>
+								<span>确认密码</span>
+								<input type="password" class="password_again" placeholder="请输入6位以上密码"/>
+								<p>密码错误</p>
+							</li>
+							<li>
+								<span>验证码</span>
+								<input type="text" class="test match_num"/>
+								<input type="text" class="test match_img" style="margin-left:30px"/><br />
+								<p>请输入验证码</p>
+							</li>
+							<li>
+								<span>短信验证码</span>
+								<input type="text" class="test messsage_num" />
+								<input type="text" class="test messsage_img"/ style="margin-left:30px"><br />
+								<p>获取验证码</p>
+							</li>
+						</ul>
+						<div class="btn">
+						<span id="register">立即注册</span>
+						</div>
+						<div class="auto_login">
+							<p>          
+								<span>点击立即注册即表示同意魅力<a href="http://www.mei.com/user/tofindPassWord">使用条款</a></span>
+								<input type="checkbox" />
+								您将收到魅力惠每日最新上线邮件
+							</p>
+						</div>
+						<div class="parter_login">
+		                 	 <a href="#" class="weibo" onclick="toweiboLogin()"></a>
+							 <h4>联名登录:</h4>
+		                 	 <a href="#" class="zhifubao" onclick="toAlipayLogin()"></a>
+						</div>
+						<div class="wechat">
+							 <img src="https://cdn11.mei.com/images/login/imges_saomiao.jpg" />
+               				 <p>扫描二维码或发送短信<br>“MLH”到“12114”<br>下载APP尊享独家优惠</p>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div id="footLoad"></div>
+	</div>
+	<body>
+	</body>
+</html>

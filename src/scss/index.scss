@@ -1,0 +1,596 @@
+@import "base";
+//header{
+//  width: 100%;
+//  height: 120px;
+//  background: #f2f2f2;
+//}
+//.header1{
+//  width: 1000px;
+//  height: 30px;
+//  margin: auto;
+//  background: #f2f2f2;
+//}
+//header img{
+//  width: 20px;
+//  height: 20px;
+//}
+//header li{
+//  height: 30px;
+//  line-height: 30px;
+//  float:left;
+//  padding: 0 10px 0 0;
+//}
+//.header_right ul li{
+//  height: 30px;
+//  line-height: 30px;
+//  padding: 0 0 0 20px;
+//  float: right;
+//}
+//.header_right .sina{
+//  display: block;
+//  width: 20px;
+//  height: 17px;
+//  background: url(../img/base_z.png) no-repeat -604px -329px;
+//  position: relative;
+//  top: 6px;
+//  margin-left:10px ;
+//}
+//.header2all{
+//  width: 100%;
+//  background: #fff;
+//}
+//.header2{
+//  width: 1000px;
+//  height:90px;
+//  margin: auto;
+//  background: #FFFFFF;
+//}
+//.header2 a{
+//  float: left; 
+//}
+//.header2_bg{
+//  display: block;
+//  width: 205px;
+//  height: 90px;
+//  background: url(../img/base_z.png) no-repeat -853px -295px;
+//}
+//.header2_bg1{
+//  display: block;
+//  cursor: default;
+//  width: 135px;
+//  height: 90px;
+//  background: url(../img/base_z.png) no-repeat -905px -72px;
+//}
+///*-------------------------------header--------------------------*/
+//nav{
+//  width: 100%;
+//  height: 42px;
+//}
+//nav .nav{
+//  width: 1000px;
+//  height: 42px;
+//  background: black;
+//  margin: auto;
+//}
+//.nav_left li{
+//  width: auto;
+//  height: 42px;
+//  line-height: 42px;
+//  margin-right: 39px;
+//  float: left;
+////  overflow: hidden;
+//}
+//.nav_left a{
+//      color: #fff;
+//}
+//#haiwaibg{
+//  display: inline-block;
+//  width: 32px;
+//  height: 18px;
+//  background: url(../img/new.png) no-repeat;
+//}
+//
+///*----------------------二级菜单---------------------------*/
+//.navall{
+//  width: 100%;
+//  height: 42px;
+//  background: #000000;
+//  a{
+//      font-size: 14px;
+//  }
+//}
+//.navall a:hover{
+//  color: red;
+//}
+//.nav_left{
+//  float: left;
+//}
+///*一级菜单相对定位*/
+//.nav_left ul>:nth-child(2){
+//  position: relative;
+////  display: none;
+//}
+//.nav_left .nav2all{
+//  width: 630px;
+////  height: auto;
+//  height: 400px;
+//  display: none;
+//  position: absolute;
+//  top: 42px;
+//  left: 0px;
+//  background: #fff;
+//}
+//.nav2leftul{
+//  width: 48%;
+//  height: 400px;
+//  border-right: 1px #e7e7e7 solid;
+//  float: left;
+//  padding-bottom: 34px;
+//}
+//.nav2leftul h4,.nav2rightul h4{
+//  width: 282px;
+//  height: 44px;
+//  line-height: 44px;
+//  margin-bottom:10px;
+//  font-size: 14px;
+//  border-bottom: 1px solid #e7e7e7;
+//}
+//.nav2leftul li h5{
+//  width: 50%;
+//  height: 44px;
+//  text-align: right;
+//  line-height: 44px;
+//  font-size: 14px;
+//  position: absolute;
+//  left: -20px;
+//  bottom:0;
+//  color:#000;
+//}
+//.nav2leftul li{
+//  width: 93%;
+//  line-height: 15px;
+//  text-align: left;
+//}
+//.nav2leftul li a{
+//  font-size: 12px;    
+//  color: rgb(102,102,102);
+//}
+//.nav2all .nav2rightul{
+//  width: 315px;
+//  height: auto;
+//  float: right;
+//}
+//.nav2rightul li{
+//  line-height: 15px;
+//  text-align: left;
+//  clear: both;
+//}
+//.nav2rightul li a{
+//  font-size: 12px;
+//  color:#000;
+//}
+//.nav_right{
+//  float: right;
+//  ul>li{
+//      color: #fff;
+//      font-size: 16px;
+//      height: 42px;
+//      line-height: 42px;
+//      float: left;
+//      margin-left: 15px;
+//      text-align: center;
+//  }
+//  .shoppingCar{
+//      width: 23px;
+//      height: 42px;
+//      background: url(../img/base_z.png) no-repeat -1017px -219px;
+//  }
+//}
+
+
+/*-----------------------------------banner-----------------------------*/
+.banner{
+    width: 1280px;
+    height: 454px;
+    overflow: hidden;
+    position: relative;
+    top: 0;left: 0;
+//  overflow: hidden;
+    ul{
+        width: 5120px;
+        height: 524px;
+        position: absolute;
+        top: 0px;left: 0px;
+        li,img{
+            width:1280px;
+            height: 524px;
+            float: left;
+        }
+    }
+    .banner_span{
+        width: 240px;
+        height: 40px;
+//      background: cornflowerblue;
+        position: absolute;
+        bottom: 20px;
+        left:530px ;
+        span{
+            display: block;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            float: left;
+            margin: 10px;
+            line-height: 40px;
+            text-align: center;
+            background:cornflowerblue ;
+            opacity: 0.6;
+        }
+        /*移入公共样式*/
+        .span_active{
+            background: red;
+            opacity: 1;
+        }
+    }
+    
+}
+/*--------------------------------列表-今日上新-----------------------------------------*/
+   .content,.active{
+       width: 1040px;
+       height: auto;
+       background: #fff;
+       margin: auto;
+       overflow: hidden;
+       h3{
+           width: 100%;
+           height: 28px;
+           margin: 10px 20px;
+           float:left;
+           .spanleft{
+               width: 6px;
+               height: 28px;
+               float: left;
+               background: url(../img/spanleft.png) no-repeat 0 0;
+           }
+           .spancenter{
+               height: 28px;
+               line-height: 26px;
+               float: left;
+               padding: 0 10px;
+               font-size: 24px;
+           }
+           .spanright{
+               width: 6px;
+               height: 28px;
+               background: url(../img/spanleft.png) no-repeat right top;
+               float: left;
+           }
+       }
+       
+       /********************************bigRecommend***********************************************/
+       
+       .bigRecommend{
+           float: left;
+           width: 320px;
+           height: 483px;
+           position: relative;
+           margin: 0 0 20px 20px;
+           background: url(../img/base_z1.jpg) no-repeat;
+           .bigRecommendTop{
+               position: absolute;
+               top:300px;
+               width: 320px;
+               text-align: center;
+               h4{
+                   height: 74px;
+                   font-size: 30px;
+                   font-weight:400;
+                   letter-spacing: 10px;
+                   color: #FFFFFF;
+                   background: url(../img/base_z2.png) no-repeat 50% 0;
+               }
+               
+           }
+           .bigrecommendbBot{
+                   width: 217px;
+                   position: absolute;
+                   top: 374px;
+                   left: 56px;
+                   padding: 6px 0;
+                   margin: 8px auto 0;
+                   border-top: 1px solid #fff;
+                   border-bottom:1px solid #fff ;
+                   line-height: 20px;
+                   text-align: center;
+                   a{
+                       padding: 0 5px;
+                       font-size: 14px;
+                       color: #FFFFFF;
+                       &:hover{
+                            color:red
+                       }
+                   }
+               }
+       }
+       
+       .rightBanner{
+           width: 320px;
+           height: 480px;
+          margin: 0 0 26px 20px;
+           background: #6495ED;
+           float: right;
+           position: relative;
+           left: -20px;
+           overflow: hidden;
+           .rImg{
+               width: 640px;
+               height: 480px;
+           }
+           #rul{
+               position: absolute;
+//             width: 640px;
+               height:480px ;
+               & li{
+                 float: left;
+                }
+           }
+           .lbtn{
+               width: 25px;
+               height: 40px;
+               background:url(../img/lbtn.png) no-repeat;
+               position: absolute;
+               left: 0;
+               top: 45%;
+               opacity: 0;
+           }
+           .rbtn{
+               width:25px;
+               height:40px;
+               background: url(../img/rbtn.png) no-repeat;
+               position: absolute;
+               right: 0;
+               top: 45%;
+               opacity: 0;
+               
+           }
+           .rbSpan{
+               width: 80px;
+               height: 20px;
+               position: absolute;
+               bottom: 10px;
+               left: 37%;
+           }
+           .rbSpan a{
+               display: block;
+               width: 16px;
+               height: 16px;
+               float: left;
+               margin-left: 20px;
+               border-radius: 50%;
+                background: #b6b6b6;
+               opacity: .6;
+           }
+          .rbSpan .span_active1{
+                background: red;
+           }
+           
+           
+           
+           
+       }
+       .left,.center,.right{
+           width: 320px;
+//         height: 232px;
+           //overflow: hidden;
+//         margin-top: 8px;
+           float: left;
+           cursor: pointer;
+           margin: 0 0 20px 20px;
+           position: relative;
+           &:hover .shoptime{
+               display: block;
+               opacity: .6;
+           }
+           &:hover img{
+                transform: scale(1.2);
+           }
+           .shop{
+               width: 320px;
+               height: 192px;
+//             float: left;
+               overflow: hidden;
+           }
+           .shoptime{
+               display: block;
+               height: 192px;
+               width: 100%;
+               position:absolute ;
+               float: left;
+                    z-index: 999;
+               background: black;
+               left: 0;
+               top:0;
+               display: none;
+               text-align: center;
+               line-height: 192px;
+               color: #fff;
+           }
+           .shop>img{
+               width: 320px;
+               height: 192px;
+               transition: all 0.6s;  
+           }
+           .shopmean{
+               width: 320px;
+               height: 40px;
+               background: #f2f2f2;
+           }
+           .shopmean>span{
+               display: block;
+               width: 180px;
+               overflow: hidden;
+               white-space: nowrap;
+               text-overflow: ellipsis;
+           }
+            .shopmean>p{
+                float: right;
+                span{
+                    font-size: 18px;
+                    color:red;
+                }
+            }
+        
+            .activeL{
+                width: 149px;
+                height: 88px;
+//              clear: both;
+                float: left;
+            }
+            
+            //取消动画
+            .activeL img{
+                width:149px;
+                height:88px;
+                transform: none;
+            }
+            .activeR{
+                width: 169px;
+                height: 88px;
+                float: left;
+                background: #E7E7E7;
+            }
+            .activeR p{
+                clear: both;
+                display: block;
+                width:149px;
+                margin: 10px 10px 0 0;
+            }
+            .activeC{
+                width: 318px;
+                height: 88px;
+                background: black;
+                opacity: .6;
+                .activesmall{
+                    width: 100px;
+                    height: 40px;
+                    text-align: center;
+                    line-height:40px ;
+                    background: red;
+                    margin: auto;
+                    margin-top:24px ;
+                    opacity: 1;
+                    a{
+                        color: #fff;
+                    }
+                }
+            }
+       }
+       .activeSpan{
+            width: 467px;
+            height: 16px;
+            margin-bottom:10px;
+            margin-left:20px;
+            clear:both;
+            border-left: 1px solid black;
+            span{
+                display: block;
+                float: left;
+                width: 89px;
+                height: 16px;
+                line-height: 16px;
+                border-right:1px solid #000;
+                cursor:pointer;
+                text-align: center;
+                font-size: 14px;
+            }
+        }
+        .newadd{
+        position: relative;
+        overflow: hidden;
+        height: 1099px;
+    }
+        .line{
+            width: 90px;
+            height: 4px;
+            margin-left: 20px;
+            overflow: hidden;
+            background: #000;
+            position: relative;
+            bottom: 0;
+            
+        }
+        .selectAll{
+            width: 1280px;
+            -height: auto;
+//          background: pink;
+            position: absolute;
+            float: left;
+            display: none;
+            overflow: hidden;            
+        }
+        .selectAll .select{
+//          height: 1000px;
+        }
+        .reveal{
+            display: block;
+        }
+   }
+
+/*--------------------------------列表-今日上新-----------------------------------------*/
+
+/*-----------------------------------returnTop------------------------------------------------------------*/
+  .returnTop{
+      z-index: 9999;
+      width: 98px;
+      height: 300px;
+      position: fixed;
+      right: 0;
+      bottom:50px;
+      overflow:hidden;
+      text-align: center;
+      background: #fff;
+        img{
+              width: 75px;
+              height: 75px;
+              margin-left: 14px;
+              margin-bottom:5px;
+              display:block;
+          }
+      .bot{
+          background: #000;
+          padding: 5px;
+          span{
+              color: red;
+              font-size: 16px;
+              letter-spacing: 2px;
+              font-weight: bold; 
+          }
+          b{
+              font-size: 14px;
+              color: #fff;
+          }
+      }
+      .app_chat{
+          padding:5px 0;
+          border: 1px solid #ccc;
+          span{
+              line-height: 22px;
+          }
+      }
+      .top{
+          width: 98px;
+          height: 30px;
+          border: 1px solid #ccc;
+          border-top:0 ;
+          overflow: hidden;
+          background: url(../img/base_z.png);
+          background-position: -564px -425px;
+          box-sizing: border-box;
+          display: none;
+//        background: lightblue;
+      }
+  }
+  
+
+
+

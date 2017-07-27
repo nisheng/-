@@ -1,0 +1,56 @@
+[
+	{
+		"img" : "../img/banner0.jpg"
+	},
+	{
+		"img" : "../img/banner1.jpg"
+	},
+	{
+		"img" : "../img/banner2.jpg"
+	},
+	{
+		"img" : "../img/banner1.jpg"
+	},
+	{
+		"img" : "img/sp1.jpg",
+		"span" : "JILL STUART 纽约设计师女装",
+		"agio" : "3.1",
+		"time" : "满两件享7折,3天后结束"
+	},
+	{
+		"img" : "img/sp2.jpg",
+		"span" : "JILL STUART 纽约设计师女装",
+		"agio" : "3.2",
+		"time" : "满两件享7折,3天后结束"
+	},
+	{
+		"img" : "img/sp3.jpg",
+		"span" : "JILL STUART 纽约设计师女装",
+		"agio" : "3.3",
+		"time" : "满两件享7折,3天后结束"
+	},
+	{
+		"img" : "img/sp4.jpg",
+		"span" : "JILL STUART 纽约设计师女装",
+		"agio" : "3.4",
+		"time" : "满两件享7折,3天后结束"
+	},
+	{
+		"img" : "img/sp5.jpg",
+		"span" : "JILL STUART 纽约设计师女装",
+		"agio" : "3.5",
+		"time" : "满两件享7折,3天后结束"
+	},
+	{
+		"img" : "img/sp6.jpg",
+		"span" : "JILL STUART 纽约设计师女装",
+		"agio" : "3.6",
+		"time" : "满两件享7折,3天后结束"
+	},
+	{
+		"img" : "img/sp7.jpg",
+		"span" : "JILL STUART 纽约设计师女装",
+		"agio" : "3.7",
+		"time" : "满两件享7折,3天后结束"
+	}
+]
